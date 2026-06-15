@@ -1,2 +1,18 @@
-# Named-entity-recognition-Bert
-Fine-tuned BERT model for Named Entity Recognition (NER) using the WikiAnn dataset with Hugging Face Transformers and Gradio deployment.
+# Understanding: Named Entity Recoginition with BERT Transformer
+
+This project implements a Named Entity Recognition (NER) system using a fine-tuned BERT model on the WikiAnn dataset.
+
+The model identifies:
+
+- Persons (PER)
+- Organizations (ORG)
+- Locations (LOC)
+
+The project includes:
+
+- Data preprocessing
+- BIO tagging
+- Label alignment
+- BERT fine-tuning
+- Model evaluation
+- Gradio deployment
