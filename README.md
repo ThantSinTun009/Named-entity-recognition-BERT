@@ -1,4 +1,4 @@
-# Understanding: Named Entity Recoginition with BERT Transformer
+# Named Entity Recoginition with BERT Transformer
 
 This project implements a Named Entity Recognition (NER) system using a fine-tuned BERT model on the WikiAnn dataset.
 
